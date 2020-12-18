@@ -4,7 +4,7 @@ This software allows you to easily install all the patches from "PerformanceOver
 For any problems, or for more information, check the main repository (by yamashi). 😊
 
 -----------
-![Demo](https://i.imgur.com/lJyBzg9.png)
+![Demo](https://i.imgur.com/vf3xKII.png)
 
 
 [DOWNLOAD](https://bit.ly/384rLQZ) | [MAIN REPOSITORY](https://bit.ly/384rMEx) | [ISSUES](https://bit.ly/34cbtUX)
@@ -33,7 +33,7 @@ Type | Description
 `Installer Developer` | *LittleZen*
 `Patch Developer` | *[yamashi + others](https://github.com/yamashi/PerformanceOverhaulCyberpunk)*
 `Installer Base Version` | *1.0*
-`Installer Lastest Version` | *2.3*
+`Installer Lastest Version` | *Check ChangeLog or LastRelease*
 `Patch Version` | *You can check for updates directly on the tool*
 
 ## Changelog
@@ -81,6 +81,15 @@ Type | Description
 - [x] Changed Memory Pool Input (NumbericUpDown added) 
 - [x] Huge code CleanUp + Error Handling 
 - [x] .gitignore updated 
+
+-----------
+
+### Version 2.4 [17/12/2020]
+
+- [x] Autofind Steam path added
+- [x] Autofind GOG path added
+- [x] New ToolTips added
+- [x] minor changes and bug fix
 
 -----------
 
